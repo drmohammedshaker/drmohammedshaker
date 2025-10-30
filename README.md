@@ -41,7 +41,7 @@
 
 - 🧭 **Personal Portfolio** — Showcasing my work, passion, and story in a sleek modern-vintage design.  
   _Next.js | CSS Animations | Responsive Design_  
-  🔗 [Visit Live Site](#https://github.com/drmohammedshaker/portofolio-backend.git)
+  🔗 [Visit Live Site](https://github.com/drmohammedshaker/portofolio-backend.git)
 
 ---
 
