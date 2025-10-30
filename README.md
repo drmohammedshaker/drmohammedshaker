@@ -13,7 +13,6 @@
 
 ✨ Passionate about crafting web experiences that balance **modern innovation** and **classic design sensibility**.  
 💻 I specialize in full-stack JavaScript development. 
-🕰️ Inspired by timeless design — built with today’s tech.
 
 ---
 
