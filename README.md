@@ -53,7 +53,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-shaker/" target="_blan](https://www.linkedin.com/in/mohammed-shaker-43755b326/)k](https://www.linkedin.com/in/mohammed-shaker-43755b326/)">
+<a href="https://www.linkedin.com/in/mohammed-shaker-43755b326/" target="_blan](https://www.linkedin.com/in/mohammed-shaker-43755b326/)k](https://www.linkedin.com/in/mohammed-shaker-43755b326/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://mohammedshaker.dev" target="_blank">
