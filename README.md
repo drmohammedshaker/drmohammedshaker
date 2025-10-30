@@ -1,7 +1,7 @@
 <!-- 🌐 Mohammed Shaker | Modern × Vintage Web Developer -->
 
 <h1 align="center">Hi 👋, I'm Mohammed Shaker</h1>
-<h3 align="center">A Modern Web Developer with a Vintage Touch</h3>
+<h3 align="center">A Modern Web Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedshaker&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedshaker" />
@@ -12,7 +12,7 @@
 ### 🧭 About Me
 
 ✨ Passionate about crafting web experiences that balance **modern innovation** and **classic design sensibility**.  
-💻 I specialize in full-stack JavaScript development, blending **frontend elegance** with **backend efficiency**.  
+💻 I specialize in full-stack JavaScript development. 
 🕰️ Inspired by timeless design — built with today’s tech.
 
 ---
@@ -45,29 +45,16 @@
 
 ---
 
-### 🧩 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedshaker&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedshaker&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedshaker&theme=oldie&no-frame=true&no-bg=true&row=1" />
-</p>
-
----
-
 ### 🖋️ Quote I Live By
 
-> “Code like an artist. Build like a craftsman.”
+> “To be or not to be”
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-shaker/" target="_blank">
+<a href="[https://www.linkedin.com/in/mohammed-shaker/" target="_blan](https://www.linkedin.com/in/mohammed-shaker-43755b326/)k">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://mohammedshaker.dev" target="_blank">
