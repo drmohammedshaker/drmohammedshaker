@@ -34,7 +34,7 @@
 
 ### 🚀 Featured Projects
 
-- 🎬 **Movie Explorer** — A modern React app that fetches live movie data using TMDB API.  
+- 💼 **E-COMMERCE STORE** — A modern React app that sells a vintage style suits.  
   _React | TMDB | Styled Components_  
   🔗 [View Repository](#)
 
