@@ -35,7 +35,7 @@
 ### 🚀 Featured Projects
 
 - 💼 **E-COMMERCE STORE** — A modern React app that sells a vintage style suits.  
-  _React | MONGODB | NodeJs | JWT Authentication | Styled Components_  
+  _React | MONGODB | Node Js | JWT Authentication | CSS
   🔗 [View Repository](#)
 
 - 🧭 **Personal Portfolio** — Showcasing my work, passion, and story in a sleek modern-vintage design.  
