@@ -35,13 +35,13 @@
 ### 🚀 Featured Projects
 
 - 💼 **E-COMMERCE STORE** — A modern React app that sells a vintage style suits.  
-  _React | MONGODB | Node Js | JWT Authentication | CSS
+  React | MongoDB | Node Js | JWT Authentication | CSS
   
-  🔗 [View Repository](#)
+  🔗 [View Repository]()
 
 - 🧭 **Personal Portfolio** — Showcasing my work, passion, and story in a sleek modern-vintage design.  
-  _Next.js | CSS Animations | Responsive Design_  
-  🔗 [Visit Live Site](https://github.com/drmohammedshaker/portofolio-backend.git)
+  React | CSS    
+  🔗 [Visit Live Site](https://github.com/drmohammedshaker/myportofolio.git)
 
 ---
 
